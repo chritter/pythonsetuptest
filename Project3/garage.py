@@ -1,4 +1,4 @@
-'''builds garage'''
+'''builds garage and more'''
 import logging
 log = logging.getLogger("my-logger")
 
